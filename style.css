@@ -1,32 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Parisienne|Quicksand&display=swap');
 
-/* .containerr {
-  position: relative;
-  background-image: url('image/bg.png');
-    height: 50px;
-    margin: 0;
-    background-position: center; 
-    background-repeat: no-repeat; 
-    height: 100vh; 
-    margin: 0;
-    opacity: 0.5;
-    z-index: -1; */
-    /* background-image: linear-gradient(to bottom right, rgb(233, 91, 214), rgb(227, 77, 171), rgb(218, 78, 170), rgb(210, 80, 170), rgb(202, 81, 170), rgb(193, 82, 170), rgb(185, 83, 169), rgb(176, 84, 169), rgb(168, 85, 169), rgb(160, 87, 169), rgb(151, 88, 168), rgb(143, 89, 168)); */
-/* }
-.bg{
-  position: relative;
- 
-  height: 300px;
-  margin: 0;
-  background-position: center; 
-  background-repeat: no-repeat;
 
-  margin: 0;
-}
-.containerr::before {
-
-  opacity: 0.5;
-} */
 .containerr {
   position: relative;
   height: 100vh; 
@@ -74,7 +48,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity here (0.5 for 50% transparency) */
+  background-color: rgba(0, 0, 0, 0.5); 
 }
 .title{
     margin-top: 70px;
