@@ -465,7 +465,7 @@
     align-items: center;
     justify-content: center;
     font-size: 24px; /* Adjust the size of the icons */
-    color: #1d19fc; /* Adjust color as needed */
+    color: #39deff; /* Adjust color as needed */
     text-decoration: none;
   }
   .social-icon__linky {
@@ -481,6 +481,6 @@
     align-items: center;
     justify-content: center;
     font-size: 24px; /* Adjust the size of the icons */
-    color: #0dd9d9; /* Adjust color as needed */
+    color: #26ee8a; /* Adjust color as needed */
     text-decoration: none;
   }
